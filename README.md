@@ -4,6 +4,8 @@ Some Tips and Tricks about ELK (Elastic, Logstash, Kibana).
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
+![Elastic](./images/elastic-logo-256.png)
+
 ### Tomorrow I will learn
 
 * [ELK on Docker](https://towardsdatascience.com/running-securing-and-deploying-elastic-stack-on-docker-f1a8ebf1dc5b)
