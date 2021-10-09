@@ -6,6 +6,14 @@ Some Tips and Tricks about ELK (Elastic, Logstash, Kibana).
 
 ![Elastic](./images/elastic-logo-256.png)
 
+## Useful documents
+
+* [Kibana best practices](./docs/kibana-best-practices.md) - Some tips on using Kibana
+
+## Useful links
+
+* [Kibana best practices](https://www.elastic.co/guide/en/kibana/master/development-best-practices.html) - Best practices from Elastic
+
 ## Tomorrow I will learn
 
 * [ELK on Docker (1)](https://towardsdatascience.com/running-securing-and-deploying-elastic-stack-on-docker-f1a8ebf1dc5b)
